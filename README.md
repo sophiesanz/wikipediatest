@@ -1,4 +1,4 @@
-# Test Automation Wikipedia  
+# Wikipedia Automation Test
 
 This project contains the development of a QA case study implemented for testing a feature of the website https://en.wikipedia.org/ . Its scope is limited to the functional testing of search bar and search results. 
 
