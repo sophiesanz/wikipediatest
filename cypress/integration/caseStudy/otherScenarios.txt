@@ -1,0 +1,17 @@
+Feature: Other scenarios for Searching
+    
+    I want to provide other possible scenarios to test 
+
+    Scenario: Display search results consistent with the search keyword
+
+    Scenario: Clear search field
+
+    Scenario: Search a word with special characters 
+
+    Scenario: Search a word in a language different than the used by the visitor
+       
+    Scenario: Display an autocomplete list when user is typing
+    
+    Scenario: Select an item of autocomplete list redirects to the article page
+
+      
